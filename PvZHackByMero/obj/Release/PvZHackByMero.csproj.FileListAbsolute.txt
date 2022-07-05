@@ -1,0 +1,17 @@
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.csprojAssemblyReference.cache
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\MainWindow.g.cs
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\App.g.cs
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero_MarkupCompile.cache
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero_MarkupCompile.lref
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\bin\Release\PvZHackByMero.exe.config
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\bin\Release\PvZHackByMero.exe
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\bin\Release\PvZHackByMero.pdb
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\bin\Release\VAMemory.dll
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\MainWindow.baml
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.g.resources
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.Properties.Resources.resources
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.csproj.GenerateResource.cache
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.csproj.CoreCompileInputs.cache
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.csproj.CopyComplete
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.exe
+C:\Users\Mero\Desktop\PvZHackByMero\PvZHackByMero\PvZHackByMero\obj\Release\PvZHackByMero.pdb

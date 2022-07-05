@@ -1,0 +1,18 @@
+﻿<Window x:Class="PvZHackByMero.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PvZHackByMero"
+        mc:Ignorable="d"
+        Title="Plants vs Zombies Hack by MrMero" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="293*"/>
+            <ColumnDefinition Width="499*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="setEnergy" Content="Ustaw energie" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="176" Height="49" FontSize="22" Click="SetEnergy_Click"/>
+        <TextBox x:Name="energyValue" HorizontalAlignment="Left" Height="49" Margin="191,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="157" FontSize="22" TextAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Grid.ColumnSpan="2"/>
+
+    </Grid>
+</Window>
